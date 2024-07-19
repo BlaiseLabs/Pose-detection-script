@@ -1,2 +1,2 @@
 # Pose-detection-script
-MediaPipe Pose Detection Script in Python
+A Python script that uses [MediaPipe](https://pypi.org/project/mediapipe/) for pose and face detection, useful for [livestreaming](https://twitch.tv/blaiselabs).
